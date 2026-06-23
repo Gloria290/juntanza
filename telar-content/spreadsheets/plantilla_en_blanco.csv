@@ -1,6 +1,6 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,que-espera-rosa,0.502559777462122,0.4953703715883451,0.6030000000000001,,El  morro de basura,Lugar de vivienda de muchas personas desplazadas por la violencia en los pueblos de donde huyeron.,,,,,,,,
-2,que-espera-rosa,0.5083474758014374,0.7124406911669304,2.4528216447266007,,De donde salieron los escombros,los trajeron de otro lugar para tapar el lago,,,,,,,,
-3,que-espera-rosa,0.19398966240247623,0.5914605340690271,1.9888266114338609,,Porque la presencia de los gallinazos,porque había desechos orgánicos en el lugar.,,,,,,,,
-4,que-espera-rosa,0.6027125487931588,0.32968531862526257,2.3667544610018747,,Que espera Rosa,,,,,,,,,
+2,que-espera-rosa,0.5083474758014374,0.7124406911669304,2.4528216447266007,,¿De donde salieron los escombros?,Los trajeron de otro lugar para tapar el lago.,,,,,,,,
+3,que-espera-rosa,0.19398966240247623,0.5914605340690271,1.9888266114338609,,¿Porque la presencia de los gallinazos?,Porque había desechos orgánicos en el lugar,,,,,,,,
+4,que-espera-rosa,0.6403232382748033,0.33454184650589547,2.3667544610018747,,¿Que espera Rosa?,,,,,,,,,
